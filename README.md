@@ -12,6 +12,8 @@ There is a total of four courses:
 The are foure main stages in the ML deployment process:
 Scope -> Data -> Modeling -> Deployment
 
+![MLOps Process](./img/MLOps1.jpg)
+
 Kew challenges
 
 - Concept Drift (X -> Y): 
